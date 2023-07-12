@@ -19,5 +19,5 @@ There were  Vine reviews that were 5 stars and  1704  non-Vine reviews were 5 st
 ![Percentage of 5stars non-Vine reviews](Images/per_5_star_unpaid.PNG)
 
 # Summary: 
-The results are not conclusive as we only have 3 Vine users in this catagory.But from this limited sample we can see that 66.6% of the reviews in the Vine program were 5 stars whereas the percentage in the non-Vine reviews is only 55%. This describes a bias for reviews in the paid program. Additionally we could analyse the statistical distribution of the star rating for the Vine and non-Vine reviews to dive deeper for this study. Combining all the datasets is also suggested as we want to answer specific question about the vine users and catagorizing the products are not useful in this case.
+The results are not conclusive as we only have 3 Vine users in this category. But from this limited sample, we can see that 66.6% of the reviews in the Vine program were 5 stars whereas the percentage in the non-Vine reviews is only 55%. This describes a bias for reviews in the paid program. Additionally we could analyse the statistical distribution of the star rating for the Vine and non-Vine reviews to dive deeper for this study. Combining all the datasets is also suggested as we want to answer specific question about the vine users and catagorizing the products are not useful in this case.
 
